@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/bibtracker-cplusplus/v16/Browse.VC.opendb
+/.vs/bibtracker-cplusplus/v16/Browse.VC.db-wal
+/.vs/bibtracker-cplusplus/v16/Browse.VC.db-shm
+/.vs/bibtracker-cplusplus/v16/Browse.VC.db
+/.vs/bibtracker-cplusplus/v16/.suo
+/.vs/bibtracker-cplusplus/v16/ipch/AutoPCH/872056334326520d/HELLO.ipch
